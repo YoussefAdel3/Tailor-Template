@@ -22,8 +22,7 @@
 To run the project locally:
 
 1. git clone https://github.com/YoussefAdel3/Tailor-Template.git
-2. cd to Mytemp
-3. open index.html
+2. open index.html
 
 ## Preview of the template:
 
